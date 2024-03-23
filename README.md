@@ -6,6 +6,10 @@ Then, type:
 ```
 java -jar <Your-downloads-path>\StringManipulator.jar
 ```
+With my current setup I run it with:
+```
+java -jar C:\Users\Gjin\Downloads\IntegralCalculator.jar
+```
 After you download the file, you can move it anywhere and run it as long as you specify the path where it resides in.
 
 
