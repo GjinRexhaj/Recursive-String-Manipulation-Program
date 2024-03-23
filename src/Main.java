@@ -1,3 +1,9 @@
+/*  String Manipulation Program Menu
+ *  @author: Gjin Rexhaj
+ *  @since:  3/22/2024
+ *  @version: 1.0
+ */
+
 import java.util.Scanner;
 
 /** {@code Main} class serves as the driver class. */ 
