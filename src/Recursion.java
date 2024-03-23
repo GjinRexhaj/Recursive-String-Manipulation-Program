@@ -1,6 +1,6 @@
 /*  Recursive String Manipulation Methods
  *  @author: Gjin Rexhaj
- *  @date:  3/22/2024
+ *  @since:  3/22/2024
  *  @version: 1.0
  */
 
